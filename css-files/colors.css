@@ -1,0 +1,20 @@
+
+:root {
+    --colorPrimary: #0b0a33;    
+    --colorSecondary: #5335d9;    
+    --colorAccent: #4457ff;    
+    --colorText: #7a7d9c;    
+    --colorBackground: #f3f5ff;    
+    --colorAccent2: #ff5f85;    
+    --colorTailwindText1: #374151;    
+    --colorPrimary0: #ffffff;    
+    --colorPrimary100: #fcd4d4;    
+    --colorPrimary200: #f6aaaa;    
+    --colorPrimary300: #ef8282;    
+    --colorPrimary400: #e46060;    
+    --colorPrimary500: #d64444;    
+    --colorPrimary600: #c52d2d;    
+    --colorPrimary700: #af1c1c;    
+    --colorPrimary800: #941010;    
+    --colorPrimary900: #740707;    
+}
