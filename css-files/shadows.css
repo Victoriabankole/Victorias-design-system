@@ -1,0 +1,5 @@
+
+:root {
+    --shadowCardShadowsDefault: 0 5px 20px 0 rgba(0,0,0,0.03);  
+    --shadowCardShadowsActive: 0 15px 35px 0 rgba(0,0,0,0.03);  
+}
